@@ -1,0 +1,4 @@
+Server: mysql-jacquelinerogge.alwaysdata.net
+Database: jacquelinerogge_dbquiz
+Utilisateur:289327_root
+Password:Root2022
